@@ -1,8 +1,22 @@
-# React + Vite
+# Weather Info Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
 
-Currently, two official plugins are available:
+Weather Info Application is a user-friendly platform that allows users to search for and view weather data based on location. It provides detailed information, including current conditions and forecasts. The application is built using React.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Search Functionality**: Users can enter a location to retrieve current weather information.
+  
+- **Detailed Weather Information**: The app displays comprehensive weather data, including temperature, humidity, and wind speed.
+  
+- **Responsive Design**: The application is designed to be mobile-friendly and responsive across various devices.
+  
+- **Dynamic Weather Icons**: Based on the temperature, the application changes images and displays relevant weather symbols.
+  
+- **User-Friendly Interface**: A clean and intuitive interface enhances the overall user experience.
+
+## Technologies Used
+
+### Frontend:
+- **React**, **Vite**, **Material-UI**.
